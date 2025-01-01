@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Overworld","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":2,"expanded":true,"name":"01.a.despairpass","order":2,"parentId":1,"scrollX":974,"scrollY":732,"quick":false},
+{"id":3,"expanded":false,"name":"01.a.a.despairinn","order":3,"parentId":2,"scrollX":816,"scrollY":624,"quick":false}
+]
